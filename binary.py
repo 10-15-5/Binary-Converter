@@ -42,8 +42,3 @@ while validated == False:
 	binary, validated = validate(binarystring, validated)
 	
 bitstobytes(binary)
-
-
-
-
-
